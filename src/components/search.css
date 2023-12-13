@@ -1,0 +1,40 @@
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+
+
+.style{
+    text-align: center;
+    background-color: black;  
+    width: 300px;
+    align-items: center;
+    color: whitesmoke;
+}
+.afstyle{
+    background-color: black;
+    color: white;
+}
+.bookingstyle{
+    text-align: center;
+    color: black;
+    background-color: black;
+    width: 300px;
+    align-items: center;
+    color: whitesmoke;
+
+}
+.aboutstyle{
+    text-align: center;
+
+}
+.checkinstyle{
+    background-color: black;
+    color: white;
+}
+
+
+  
